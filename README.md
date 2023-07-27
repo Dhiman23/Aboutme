@@ -35,13 +35,9 @@ I love taking on new challenges and experimenting with various DevOps tools. Som
 I'm always excited to collaborate and share knowledge with fellow developers and DevOps enthusiasts. Let's connect and discuss ideas!
 
 - LinkedIn: [linkedin.com/in/sajaldhiman](https://www.linkedin.com/in/sajaldhiman)
-- Email: sajal@example.com
-- Twitter: [@sajaldhiman_dev](https://twitter.com/sajaldhiman_dev)
+- Email: sajaldhiman68@gmail.com
 
 Feel free to explore my GitHub repositories and contributions. Don't hesitate to reach out if you have any questions or just want to say hello! 😊
 
 *"Every problem is an opportunity to learn."* 🌟
 
----
-
-*Note: Replace "profile_picture.png" with your actual profile picture, and adjust the content as per your preferences and experiences.*
