@@ -1,43 +1,18 @@
-# Aboutme
+<h1 align="center">Hi 👋, I'm SAJAL DHIMAN</h1>
+<h3 align="center">"Empowering Seamless Software Delivery Through DevOps Magic"</h3>
 
-# Sajal Dhiman - DevOps Enthusiast 👨‍💻
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhiman23&label=Profile%20views&color=0e75b6&style=flat" alt="dhiman23" /> </p>
 
-![Profile Picture](profile_picture.png)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhiman23" alt="dhiman23" /></a> </p>
 
-## Introduction 🚀
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sajal-dhiman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sajal-dhiman" height="30" width="40" /></a>
+</p>
 
-Hello there! 👋 I'm Sajal Dhiman, a passionate DevOps enthusiast with a keen interest in automating and streamlining software development processes. I believe in the power of cutting-edge technologies and best practices to deliver efficient and reliable software solutions.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> </p>
 
-## About Me 🧑‍💼
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhiman23&show_icons=true&locale=en&layout=compact" alt="dhiman23" /></p>
 
-- 💼 Currently, I work as a DevOps Engineer, where I'm involved in designing and implementing CI/CD pipelines to facilitate continuous integration and delivery.
-- 🎓 I hold a degree in Computer Science and have a strong foundation in software development and system administration.
-- 🌱 I'm always eager to learn and explore new tools and technologies to stay ahead in the rapidly evolving DevOps landscape.
-- 🤝 Collaboration and teamwork are essential aspects of my work ethic, and I enjoy working with cross-functional teams to achieve common goals.
-
-## Interests 🌟
-
-- 🛠️ Automation: I'm enthusiastic about automating repetitive tasks and optimizing workflows to enhance productivity.
-- 🐳 Containerization: I find Docker's ability to containerize applications for seamless deployment and scalability fascinating.
-- ☸️ Kubernetes: Managing containerized applications with Kubernetes and ensuring high availability excites me.
-- 📈 Continuous Integration/Continuous Deployment (CI/CD): Implementing CI/CD pipelines for faster and reliable software delivery is one of my primary focuses.
-
-## Projects 💡
-
-I love taking on new challenges and experimenting with various DevOps tools. Some of my projects include:
-
-- **GitOps CI/CD Pipeline**: I created a robust CI/CD pipeline using Jenkins, ArgoCD, Docker, and Kubernetes for deploying a Python Flask app.
-- **Infrastructure as Code (IaC)**: Leveraging Terraform and AWS, I designed infrastructure setups that can be version-controlled and easily reproduced.
-- **Monitoring and Logging Stack**: Implemented a monitoring and logging solution using Prometheus, Grafana, and ELK stack to gain valuable insights into application performance.
-
-## Let's Connect! 🤝
-
-I'm always excited to collaborate and share knowledge with fellow developers and DevOps enthusiasts. Let's connect and discuss ideas!
-
-- LinkedIn: [linkedin.com/in/sajaldhiman](https://www.linkedin.com/in/sajaldhiman)
-- Email: sajaldhiman68@gmail.com
-
-Feel free to explore my GitHub repositories and contributions. Don't hesitate to reach out if you have any questions or just want to say hello! 😊
-
-*"Every problem is an opportunity to learn."* 🌟
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhiman23&show_icons=true&locale=en" alt="dhiman23" /></p>
